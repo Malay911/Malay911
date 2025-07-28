@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malay911&label=Profile%20views&color=0e75b6&style=flat" alt="Malay911" /> </p>
 
-- 🌱 I’m currently learning **Data Structures in Java, Fullstack Development, SQL**
+- 🌱 I’m currently learning **Data Structures in Java, Fullstack Development, Flutter**
 
-- 💬 Ask me about **Data Structure, Javascript, Java, SQL, C, HTML, CSS**
+- 💬 Ask me about **Data Structure, Javascript, Java, SQL, C, HTML, CSS, Flutter**
 
 - 📫 How to reach me **panaramalay@gmail.com**
-
-- ⚡ Fun fact **I am an extreme introvert. I talk very less. I hate social places.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
