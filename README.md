@@ -1,30 +1,126 @@
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1723043645~exp=1723047245~hmac=d8bf2ec64cf6a0946fcd940bbd4f8dfdce07813090aa9c074eae47be60ae897f&w=1380)
-<h1 align="center">Hi 👋, I'm Malay Panara</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align = "right" alt = "Coding" width = "330" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malay911&label=Profile%20views&color=0e75b6&style=flat" alt="Malay911" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Malay+Panara;Developer+%7C+ML+Enthusiast+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Data Structures in Java, Fullstack Development, Flutter**
+<img src="https://komarev.com/ghpvc/?username=Malay911&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/Malay911?tab=followers"><img src="https://img.shields.io/github/followers/Malay911?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" /></a>
 
-- 💬 Ask me about **Data Structure, Javascript, Java, SQL, C, HTML, CSS, Flutter**
-
-- 📫 How to reach me **panaramalay@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/malay-panara-3b1733318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhairya-bhatt-9292a0273" height="30" width="40" /></a>
-<a href="https://www.instagram.com/malay.panara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairya_429" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Malay911&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Malay911&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malay911&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
- <br/>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 &nbsp;Computer Science student passionate about building real-world software solutions
+- 🤖 &nbsp;Focused on **Machine Learning**, **Data Science**, and **AI-driven applications**
+- 📱 &nbsp;Experienced in **cross-platform mobile development** with Flutter
+- 🌐 &nbsp;Full-stack web development skills spanning frontend to backend
+- 🧩 &nbsp;Strong foundation in **Data Structures, Algorithms & Database Management**
+- 📈 &nbsp;Consistent learner with an ever-growing tech stack
+- 📬 &nbsp;Reach me at **panaramalay@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Development Focus
+
+<div align="center">
+
+🤖 **Machine Learning & AI** &nbsp;•&nbsp; 📊 **Data Science & Analytics** &nbsp;•&nbsp; 📱 **Mobile App Development** &nbsp;•&nbsp; 🌐 **Full-Stack Web Development** &nbsp;•&nbsp; 🗄️ **Database Design & Management** &nbsp;•&nbsp; 🧩 **Data Structures & Algorithms**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Malay911&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=Malay911&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malay911&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Malay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malay911&theme=tokyo-night&hide_border=true&radius=10)](https://github.com/Malay911)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Malay911&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/Malay911)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panaramalay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malay-panara-3b1733318/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malay.panara/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malay911)
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+</div>
